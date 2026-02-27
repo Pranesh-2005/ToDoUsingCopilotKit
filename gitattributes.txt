@@ -1,0 +1,5 @@
+model/** filter=lfs diff=lfs merge=lfs -text
+backend/model/** filter=lfs diff=lfs merge=lfs -text
+*.ts linguist-generated
+*.tsx linguist-generated
+
